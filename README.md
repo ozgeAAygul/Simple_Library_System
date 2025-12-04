@@ -33,4 +33,4 @@ Kullanıcı; kitap ekleyebilir, listeleyebilir ve kitap silebilir.
 Terminalden proje klasörüne gir:
 
 ```bash
-cd simple-librar
+cd simple-library-system
