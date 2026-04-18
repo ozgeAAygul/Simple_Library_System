@@ -28,7 +28,7 @@ Kullanıcı; kitap ekleyebilir, listeleyebilir ve kitap silebilir.
 
 ---
 
-## 🛠 Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 
 Terminalden proje klasörüne gir:
 
